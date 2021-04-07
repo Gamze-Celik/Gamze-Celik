@@ -2,4 +2,4 @@
 - 👀 Web developer  olmakla ilgileniyorum.
 - 🌱 Şuanda JavaScript öğreniyorum
 - 💞️ Beni geliştirecek her türlü projeyle ilgilenmek isterim
-- 📫 Bana gamzecelik4.@ogr.sakarya.edu.tr mail adresinden ulaşabilirsiniz..
+- 📫 Bana gamze.celik4@ogr.sakarya.edu.tr adresinden ulaşabilirsiniz
