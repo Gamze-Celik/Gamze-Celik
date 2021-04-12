@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gamze-Celik
+- 👋 Merhaba,ben Gamze
 - 👀 Web developer  olmakla ilgileniyorum.
 - 🌱 Şuanda JavaScript öğreniyorum
 - 💞️ Beni geliştirecek her türlü projeyle ilgilenmek isterim
