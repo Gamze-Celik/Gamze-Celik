@@ -1,5 +1,4 @@
-- 👋 Merhaba,ben Gamze
-- 👀 Web developer  olmakla ilgileniyorum.
-- 🌱 Şuanda JavaScript öğreniyorum
-- 💞️ Beni geliştirecek her türlü projeyle ilgilenmek isterim
-- 📫 Bana gamze.celik4@ogr.sakarya.edu.tr adresinden ulaşabilirsiniz
+- 👋 Hi there,I'm Gamze Çelik
+- 👀 I'm currently working on web developer.
+- 🌱 I'm currently learning on Java+React & JavaScript
+- 📫 How to reach me: [Linkedin] (www.linkedin.com/in/gamze-çelik)
