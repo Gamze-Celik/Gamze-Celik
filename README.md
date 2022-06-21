@@ -61,7 +61,7 @@
             <thead>
               <tr>
                 <th></th>
-                <th>Language/Tools</th>
+                <th>Language</th>
               </tr>
             </thead>
             <tbody>
@@ -75,10 +75,13 @@
                     </td>
                  </tr>
                   <tr>
-                    <th>Backend</th>
+                    <th>Backend</td>
                     <td>
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />  
                         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="40" height="40" /> 
+                    </td>
+                  </tr>
+                  <tr>
                      <th>Database</td>
                       <td>
                         <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png"                                  alt="sqlserver" width="60" height="40"/>
