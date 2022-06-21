@@ -20,14 +20,25 @@
           <td>Merhaba, adım Gamze Çelik. 2019 yılında Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği Bölümünde eğitim almaya başladım.O günden beri çeşitli                platformlarda yazılım eğitimi almakta ve bilgilerimi güncellemekteyim. Şuan aktif olarak ASP.NET Core, JavaScript C# alanlarında çalışmaktayım.</td>
           </tr>
          <tr>
+    </tbody>
+</table>
+<!--Statistics-->
+
+<div align="center">
+    <div>
+        <a href="https://github.com/Gamze-Celik/github-profile-views-counter">
+            <img align="center" src="https://komarev.com/ghpvc/?username=Gamze-Celik&color=blue">
+        </a>
+        <a href="https://github.com/Gamze-Celik?tab=followers">
+            <img align="center"  src="https://img.shields.io/github/followers/Gamze-Celik?style=flat-square&color=red">
+        </a>
+    </div>
+    <div>
+        <h5><a>Follow me around the web:</a></h5>
+    </div>
 
 
 
-- 👋 Hi! Welcome to my Github Profile
-- 👀 I'm currently working on web developer.
-- 🌱 I'm currently learning on Java+React & JavaScript
-- 📫 How to reach me: gamze.celik4@ogr.sakarya.edu.tr
 
-- 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Gamze-Celik&show_icons=true&theme=radical)
