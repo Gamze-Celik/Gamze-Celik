@@ -51,3 +51,31 @@
             <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamze-Celik&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
         </a>
     </div>
+<div>
+        <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32> </h2>
+    </div>
+    <div>
+        <table border="2" width="70%" cellpadding="10" cellspacing="10">
+            <thead>
+              <tr>
+                <th></th>
+                <th>Language/Tools</th>
+              </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <th>Frontend</td>
+                      <td>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40"                            height="40"/>
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
+                        <img src="https://user-images.githubusercontent.com/81612480/170154947-688736c7-2026-4a43-9633-ce5d0facae9e.png" width="40" height="40" />
+                        <img src="https://user-images.githubusercontent.com/81612480/170480034-7a192755-70ef-4d44-8fe3-dcef22f4869b.png" width="40" height="40" />
+                    </td>
+                 </tr>
+                  <tr>
+                    <th>Backend</td>
+                    <td>
