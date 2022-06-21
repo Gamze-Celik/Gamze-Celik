@@ -41,8 +41,10 @@
             <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
 
-
-
-
-
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Gamze-Celik&show_icons=true&theme=radical)
+         
+ <div>
+        <a href="https://github.com/Gamze-Celik">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamze-Celik&bg_color=0d1117&text_color=bdc3c7&title_color=f1c40f&hide_border=true&layout=compact&langs_count=10" />
+        </a>
+    </div>
