@@ -11,9 +11,15 @@
     </thead>
     <tbody>
         <tr>
+            <td><img src="https://bewerbung.co/wp-content/uploads/2018/07/bewerbung-englisch.jpg" width='96'></td>
+            <td>Hello, my name is Gamze Celik. In 2019, I started to study at Sakarya University, Department of Information Systems Engineering. Since then, I have                   been training software on various platforms and updating my knowledge. I am currently working actively in ASP.NET Core, JavaScript C# areas.
+            </td>
+         </tr>
+        <tr>
           <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'></td>
           <td>Merhaba, adım Gamze Çelik. 2019 yılında Sakarya Üniversitesi Bilişim Sistemleri Mühendisliği Bölümünde eğitim almaya başladım.O günden beri çeşitli                platformlarda yazılım eğitimi almakta ve bilgilerimi güncellemekteyim. Şuan aktif olarak ASP.NET Core, JavaScript C# alanlarında çalışmaktayım.</td>
           </tr>
+         <tr>
 
 
 
