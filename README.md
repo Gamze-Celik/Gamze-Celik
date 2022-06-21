@@ -40,6 +40,9 @@
         <a href="https://www.linkedin.com/in/gamze-%C3%A7elik-5675851a9/" target="_blank">
             <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
+</div>
+</br>
+<hr />
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=Gamze-Celik&show_icons=true&theme=radical)
          
