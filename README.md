@@ -36,6 +36,10 @@
     <div>
         <h5><a>Follow me around the web:</a></h5>
     </div>
+     <div>
+        <a href="https://www.linkedin.com/in/gamze-%C3%A7elik" target="_blank">
+            <img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
 
 
 
